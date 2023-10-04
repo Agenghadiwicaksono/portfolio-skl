@@ -45,8 +45,8 @@ ScrollReveal().reveal('.home-conten h1, .about-img', { origin:'left'});
 ScrollReveal().reveal('.home-conten p, .about-content', { origin:'top'});
 // typrd js
 const typed = new Typed('.multiple-text',{
-    strings:['Frontend Developer !','Android Devloper !','Graphic Designer !','IOS Developer !'],
-    typedSpeed:10,
+    strings:['Frontend Developer !','Android Devloper !','Graphic Designer !','IOS Developer !','Student IDN BOARDING SCHOOL'],
+    typedSpeed:100,
     backSpeed:100,
     backDelay:1000,
     loop:true,

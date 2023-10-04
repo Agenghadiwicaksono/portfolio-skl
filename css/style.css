@@ -63,6 +63,9 @@ body{
     color: var(--text-color);
     display: none;
 }
+.kata p{
+  font-size: 50rem;
+}
 .home{
     display: flex;
     justify-content: center;
